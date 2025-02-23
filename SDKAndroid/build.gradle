@@ -200,7 +200,7 @@ dependencies {
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4'
 
     // -- Persona
-    implementation 'com.withpersona.sdk2:inquiry:2.2.37'
+    implementation 'com.withpersona.sdk2:inquiry:2.13.3'
 
     // -- Plaid
     implementation 'com.plaid.link:sdk-core:3.10.1'
